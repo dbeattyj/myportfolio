@@ -1,6 +1,6 @@
 # Darryl Beatty — Professional IT Portfolio
 
-Personal portfolio site showcasing product management work across consumer platforms, operational tooling, and market intelligence.
+Personal portfolio site showcasing product management, Implementation, and IT systems management work across consumer platforms, operational tooling, and market intelligence.
 
 ## Live Site
 
