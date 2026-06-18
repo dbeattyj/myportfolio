@@ -4,7 +4,7 @@ Personal portfolio site showcasing product management, Implementation, and IT sy
 
 ## Live Site
 
-[darrylbeatty.github.io](myportfolio)
+(https://dbeattyj.github.io/myportfolio/)
 
 ## What's Inside
 
