@@ -1,4 +1,4 @@
-# Darryl Beatty — Product Manager Portfolio
+# Darryl Beatty — Professional IT Portfolio
 
 Personal portfolio site showcasing product management work across consumer platforms, operational tooling, and market intelligence.
 
