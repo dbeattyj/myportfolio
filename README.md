@@ -58,3 +58,4 @@ Everything lives in one HTML file. To update copy, find the relevant `<section>`
 
 - Email: dbeattyj@gmail.com
 - LinkedIn: [linkedin.com/in/darryl-beatty-jr](https://www.linkedin.com/in/darryl-beatty-jr/)
+- Portfolio: [https://dbeattyj.github.io/myportfolio/]
