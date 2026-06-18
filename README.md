@@ -4,7 +4,7 @@ Personal portfolio site showcasing product management work across consumer platf
 
 ## Live Site
 
-[darrylbeatty.github.io](https://darrylbeatty.github.io)
+[darrylbeatty.github.io](myportfolio)
 
 ## What's Inside
 
