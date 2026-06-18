@@ -4,7 +4,7 @@ Personal portfolio site showcasing 8+ years of work across product management, S
 
 ## Live Site
 
-[darrylbeatty.github.io/myportfolio]
+[(https://dbeattyj.github.io/myportfolio/)]
 
 ## What's Inside
 
